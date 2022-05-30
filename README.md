@@ -5,7 +5,10 @@ This project will seem like this page;
 
 ![PROJE](proje.png)
 
-## For styling;link 
+## For Project;
+- Create an index.html page
+- Create a style.css Page
+## For Styling;
 - Use borders for pictures;
 - Give a background color to the first part.
 - Change text color, link colors.
