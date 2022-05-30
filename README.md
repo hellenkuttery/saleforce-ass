@@ -1,8 +1,8 @@
 # SALESFORCE-ASSIGNMENT
 This project will seem like this page;
 
-
-![PROJE](proje.png)(https://hellenkuttery.github.io/saleforce-ass/)
+[Click for project Page](https://hellenkuttery.github.io/saleforce-ass/)
+![PROJE](proje.png)
 
 ## For styling;link 
 - Use borders for pictures;
