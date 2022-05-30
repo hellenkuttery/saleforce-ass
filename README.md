@@ -28,11 +28,11 @@ Plugins and Extensions
 Code Editor
 Top 10 best IDEs for Web development
 
-Codepen: https://codepen.io/
-Visual Studio Code: https://code.visualstudio.com/
-Atom: https://atom.io/
-Sublime Text https://www.sublimetext.com/
-PyCharm: https://www.jetbrains.com/pycharm/
+- Codepen: https://codepen.io/
+- Visual Studio Code: https://code.visualstudio.com/
+- Atom: https://atom.io/
+- Sublime Text https://www.sublimetext.com/
+- PyCharm: https://www.jetbrains.com/pycharm/
 --- 
 ## The links for pictures:
 - https://i.ytimg.com/vi/GID5Ul44-kE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5m9hysiaZiXq_e3WtymHT6Mv7EQ
