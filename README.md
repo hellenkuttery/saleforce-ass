@@ -1,9 +1,10 @@
 # SALESFORCE-ASSIGNMENT
 This project will seem like this page;
 
-![PROJE](proje.png)
 
-## For styling;
+![PROJE](proje.png)(https://hellenkuttery.github.io/saleforce-ass/)
+
+## For styling;link 
 - Use borders for pictures;
 - Give a background color to the first part.
 - Change text color, link colors.
